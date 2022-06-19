@@ -1,0 +1,24 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font:bold;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #47f113, #f3750e, #f61ffd, #f8f413, #00fff2);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+
